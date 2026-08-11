@@ -1,0 +1,7 @@
+{
+  "originId": "31831d62-d862-431d-94bf-c0aa293c3dbc",
+  "name": "snowflake",
+  "description": "test",
+  "kind": "snowflake",
+  "isDefault": true
+}
