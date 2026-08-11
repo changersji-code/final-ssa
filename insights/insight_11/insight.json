@@ -1,0 +1,79 @@
+{
+  "originId": "insight_11",
+  "name": "insight-11",
+  "description": "",
+  "isAiGenerated": false,
+  "tags": [],
+  "columnsMeta": {
+    "CALL_CENTER_ID": {
+      "label": "CALL_CENTER_ID",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "CALL_CENTER_NAME": {
+      "label": "CALL_CENTER_NAME",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "CALL_CENTER_CLASS": {
+      "label": "CALL_CENTER_CLASS",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "EMPLOYEES": {
+      "label": "EMPLOYEES",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "SQ_FT": {
+      "label": "SQ_FT",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "HOURS": {
+      "label": "HOURS",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "SALE_QTY": {
+      "label": "SALE_QTY",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "RETURN_QTY": {
+      "label": "RETURN_QTY",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    },
+    "NET_PROFIT_LOSS": {
+      "label": "NET_PROFIT_LOSS",
+      "kind": "dimension",
+      "type": "text",
+      "format": "plain",
+      "unit": ""
+    }
+  },
+  "featureType": "",
+  "scheduleConfig": {
+    "frequency": "none",
+    "materialize": false,
+    "alertOnDrift": null
+  },
+  "originDatasetId": "31831d62-d862-431d-94bf-c0aa293c3dbc"
+}
